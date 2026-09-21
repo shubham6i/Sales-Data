@@ -1,26 +1,22 @@
 # Sales Data Analysis
 
 ## About
-This project analyzes sales data using Python, Pandas, and MySQL.
+This project analyzes sales data using SQL, Python, Pandas, and MySQL.
 
-## Tools Used
+## Tools
 - Python
 - Pandas
-- MySQL
 - SQL
+- MySQL
 - Jupyter Notebook
 
-## What I Did
-- Cleaned and processed the sales data.
-- Calculated discount, sale price, and profit.
-- Stored the data in MySQL.
-- Used SQL queries to analyze sales.
-- Found the top 5 selling products in each region.
-- Compared monthly sales between 2022 and 2023.
+## Analysis
+- Top-selling products
+- Sales by region
+- Sales by category
+- Sales by year
+- Profit analysis
+- CTE-based queries
 
-## Files
-- `sales_analysis.sql` – SQL queries
-- `sql_notes.txt` – SQL notes
-- `orders.csv` – Dataset
-
-
+## Goal
+To practice SQL and analyze sales data to find useful insights.
