@@ -23,5 +23,4 @@ This project analyzes sales data using Python, Pandas, and MySQL.
 - `sql_notes.txt` – SQL notes
 - `orders.csv` – Dataset
 
-## Goal
-To practice data cleaning, SQL, and sales data analysis.
+
