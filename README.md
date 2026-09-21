@@ -18,5 +18,3 @@ This project analyzes sales data using SQL, Python, Pandas, and MySQL.
 - Profit analysis
 - CTE-based queries
 
-## Goal
-To practice SQL and analyze sales data to find useful insights.
